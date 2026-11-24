@@ -20,6 +20,9 @@ media
 *.py[cod]
 *$py.class
 
+Ambiente_virtual 
+# ignorando Ambiente_virtual
+
 # C extensions
 *.so
 
